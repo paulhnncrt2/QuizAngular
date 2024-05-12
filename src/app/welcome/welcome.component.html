@@ -1,0 +1,25 @@
+<div class="all">
+    <nav>
+        <div class="container-fluid">
+            <a class="navbar-brand text-bold" href="#">
+                <span class="text-uppercase" routerLink="/welcome">
+                    <h3 class="animate-charcter">Bienvenue au quiz Laurine</h3>
+                </span>
+            </a>
+        </div>
+    </nav>
+    <div class="container py-5">
+        <h4>Les règles du jeu sont simples :</h4>
+        <div class="d-print-table-row">Pour chaque bonne réponse, tu gagne 10 points</div>
+        <div class="d-print-table-row">Pour chaque mauvaise réponse, tu perd 10 points</div>
+        <div class="d-print-table-row">Tu as 60 secondes pour répondre à chaque question</div>
+        <div class="d-print-table-row">Si tu actualise la page, le jeu recommence</div>       
+        <div class="d-print-table-row">Si nous avons une mauvaise note, tu seras ban-ip</div>       
+    </div>
+    <div class="name col-md-4 my-3"></div>
+
+    <div class="form">
+        <input #name type="text" class="" placeholder="Entre ton nom de beau-gosse" required>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Aller ca part</button>
+    </div>    
+</div>
