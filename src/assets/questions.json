@@ -1,0 +1,177 @@
+{
+    "questions": [
+        {
+            "questionText": "Trouvez-vous notre site pas mal ?",
+            "options": [
+                {
+                    "text": "Grave ! il est super cool",
+                    "correct": true
+                },
+                {
+                    "text": "Bof"
+                },
+                {
+                    "text": "Horrible"
+                },
+                {
+                    "text": "Je préfère m'abstenir pour le moment."
+                }
+            ],
+            "explanation": "C'est logique"
+        },
+        {
+            "questionText": "Que signifie ECE ?",
+            "options": [
+                {
+                    "text": "Encodage en Code Électronique"
+                },
+                {
+                    "text": "Environnement de Calcul Embarqué"
+                },
+                {
+                    "text": "Enquête de Climat Économique"
+                },
+                {
+                    "text": "École Centrale d'Électronique",
+                    "correct": true
+                }
+            ],
+            "explanation": "Tu devrais le savoir"
+        },
+        {
+            "questionText": "Quel est le meilleur groupe pour ce projet ?",
+            "options": [
+                {
+                    "text": "Le notre",
+                    "correct": true
+                },
+                {
+                    "text": "Le notre",
+                    "correct": true
+                },
+                {
+                    "text": "Le notre",
+                    "correct": true
+                },
+                {
+                    "text": "Pas le notre"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Devine qui n'a plus d'inspi pour les questions",
+            "options": [
+                {
+                    "text": "Jeff Bezos"
+                },
+                {
+                    "text": "Elon Musk"
+                },
+                {
+                    "text": "nous",
+                    "correct": true
+                },
+                {
+                    "text": "Laurine Lenet"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Quel est le comble pour une prof de web ?",
+            "options": [
+                {
+                    "text": "d'etre mauvais en analyse fonctionnelle"
+                },
+                {
+                    "text": "manger des spaghettis"
+                },
+                {
+                    "text": "d'avoir une table basse"
+                },
+                {
+                    "text": "De s'appeller le net",
+                    "correct": true
+                }
+            ],
+            "explanation": "hahaha"
+        },
+        {
+            "questionText": "À quoi sert réellement le bouton 'Enregistrer' dans un éditeur de texte ?",
+            "options": [
+                {
+                    "text": "À lancer un mini-jeu caché"
+                },
+                {
+                    "text": "À protéger nos heures de travail acharné",
+                    "correct": true
+                },
+                {
+                    "text": "À envoyer nos fichiers directement sur Internet"
+                },
+                {
+                    "text": "À annuler toutes les modifications"
+                }
+            ],
+            "explanation": "Appuyer sur 'Enregistrer' protège effectivement vos modifications."
+        },
+        {
+            "questionText": "Que signifie vraiment 'IDE' pour les développeurs ?",
+            "options": [
+                {
+                    "text": "Insoluble Debugging Error"
+                },
+                {
+                    "text": "Integrated Development Environment",
+                    "correct": true
+                },
+                {
+                    "text": "Infinite Delays Expected"
+                },
+                {
+                    "text": "Intelligent Developer Enhancement"
+                }
+            ],
+            "explanation": "Un IDE est un environnement de développement intégré."
+        },
+        {
+            "questionText": "Quel est le comble pour un ingénieur logiciel ?",
+            "options": [
+                {
+                    "text": "Ne pas connaître le raccourci clavier pour 'Copier'"
+                },
+                {
+                    "text": "Écrire des lignes de code sans erreurs",
+                    "correct": true
+                },
+                {
+                    "text": "Utiliser un éditeur de texte en mode sombre"
+                },
+                {
+                    "text": "Ne pas pouvoir expliquer ce que fait une fonction"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Quelle est la meilleure méthode pour déboguer un code mystérieux écrit par un collègue ?",
+            "options": [
+                {
+                    "text": "Supprimer tout et recommencer"
+                },
+                {
+                    "text": "Ajouter des commentaires explicatifs partout"
+                },
+                {
+                    "text": "Regarder fixement l'écran en espérant une révélation"
+                },
+                {
+                    "text": "Demander à chat GPT",
+                    "correct": true
+                }
+            ],
+            "explanation": "Moins facile quand l'erreur vient directement de GPT"
+        }
+    ]
+}
